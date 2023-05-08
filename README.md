@@ -1,7 +1,6 @@
 # CopeEngine
 
-Very simple 3d engine using openGL still in the works. I improve this engine daily but just now started pushing it to git.
-At the moment it can render simpler gltf 3d model files and scale and move them around.
+Simple 3d engine using openGL. Supports .gltf files, with complete camera movement and simple transformations of 3D objects.
 
 Also has my own sprite functions for loading images and placing them to screen where you want and adjusting the size.
 
